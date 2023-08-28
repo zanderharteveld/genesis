@@ -1,0 +1,19 @@
+networkx
+h5py
+ipykernel
+ipython
+Keras
+matplotlib
+numpy
+pandas
+biopython
+scikit-learn
+scipy # ==1.2.0
+seaborn
+sklearn
+tensorboard
+tensorflow # ==1.14
+Werkzeug
+DSSPparser
+transforms3d
+torch
