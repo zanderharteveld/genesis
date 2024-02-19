@@ -36,3 +36,7 @@ python -u sample.py \
 --polyVAL_seq False \
 --pssm_design
 ```
+
+Or, use an example Google Colab Notebook to run Genesis:
+
+<a href="https://colab.research.google.com/github/zanderharteveld/genesis/blob/main/genesis_example_V1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
